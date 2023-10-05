@@ -26,7 +26,7 @@ Follow these steps to set up your website:
 5. Inside the Vagrant VM, navigate to the website directory.
 6. Download the website template from tooplate.com or place your HTML/CSS files here.
 7. Start the Apache HTTP Server.
-8. Your website should now be accessible at http://localhost:8080 from your host machine or you can get the IP address of the vagrant machine and get the view of the website in your browser.
+8. Your website should now be accessible at http://localhost:8080 from your host machine or you can get the IP address of the vagrant machine and get the view of the website from your browser.
 
 
 Customization
